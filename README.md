@@ -4,6 +4,7 @@
 
 * Copy the zprofile file into ~/.zprofile
 * Copy ssh-config to ~/.ssh/config
+* Install homebrew https://brew.sh/
 
 Run the following commands
 
